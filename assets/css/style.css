@@ -440,6 +440,7 @@ a {
 }
 
 .information .info p {
+  margin-top: 20px;
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 1.88;
